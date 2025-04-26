@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(39, 39, 39);
+}
+h2{
+    color: white;
+    text-align: center;
+}
+p{
+    color: aquamarine;
+}
+div{
+    border: 1px solid white;
+    border-radius: 15px;
+    background-color: rgb(0, 41, 205);
+    padding: 30px;
+    text-align: center;
+    margin: 15px;
+}
+div:hover{
+    opacity: 0.6;
+}
+
+div:active{
+    opacity: 0.4;
+}
+
+a{
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: none;
+}
