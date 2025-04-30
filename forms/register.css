@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    min-height: 100vh;
+}
+
+form {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    width: 90%;
+    max-width: 500px;
+}
+
+label {
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
